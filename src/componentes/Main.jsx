@@ -13,6 +13,7 @@ function Main() {
           <UserCard name="Wilson"/>
           <UserCard name="Head"/>
           <UserCard name="Yonex"/>
+          <UserCard name="Dunlop"/>
        </section>
          
      </main>
