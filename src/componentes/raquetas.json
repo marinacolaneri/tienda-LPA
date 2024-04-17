@@ -1,0 +1,40 @@
+{
+    "Babolat Pure Drive": {
+        "image": "/Babolat.jpg",
+        "Peso": 300,
+        "Grip":25,
+        "Description": "¿Quieres combinar potencia y precisión sin renunciar a ninguna de ellas? La nueva Pure Drive 98 es la raqueta que necesitas.",
+         "Precio": "$305000"
+    },
+    
+    "Dunlop": {
+        "image": "/Dunlop.jpg",
+        "Peso": 305,
+        "Grip":3,
+        "Description": "Siente la potencia con comodidad y control. Esta raqueta se basa en la FX 500 y proporciona una muy buena manejabilidad gracias a su peso más ligero. Ideal para jugadores avanzados que buscan una raqueta con un peso más ligero para lograr golpes rápidos con un alto nivel de potencia",
+        "Precio": "$26000"
+    },
+    "Head": {
+        "image": "/Head.jpg",
+        "Peso": 275,
+        "Grip":2,
+        "Description":"Con la Graphene 360+ Extreme S, HEAD ha logrado una vez más empaquetar aún más potencia en una raqueta con un manejo más sencillo. La cabeza ligeramente más grande proporciona una combinación agresiva de efectos y potencia, mientras que el patrón de encordado abierto optimiza la aceleración de la pelota. La innovadora tecnología Graphene 360+ ofrece una flexión mejorada y un impacto limpio, mientras que los ojales giratorios proporcionan un efecto trampolín ideal. Por último, pero no por ello menos importante, el nuevo diseño de la HEAD Extreme S también es impresionante y redondea perfectamente el conjunto.",
+        "Precio": "$28000"
+    },
+
+    "Wilson": {
+        "image": "/Wilson.jpg",
+        "Peso": 315,
+        "Grip":3,
+        "Description": "Tú aportas la potencia. La Blade Feel 100 aporta el control. Esta raqueta de tenis Wilson te conectará con la bola, proporcionando a los jugadores de club competitivos la confianza que necesitan para controlar los puntos. Todo en esta raqueta está diseñado para mejorar las sensaciones, desde la geometría del marco hasta la cabeza de tamaño medio, pasando por la tecnología BLX que amortigua las vibraciones.",
+        "Precio": "$31000"
+    },
+    "Yonex": {
+        "image": "/Yonex.jpg",
+        "Peso": 300,
+        "Grip":3,
+        "Description": "Una de las características destacadas del VCORE Ace es el diseño ISOMETRIC, desarrollado hace más de 30 años, que aumenta el punto óptimo en un 7% en comparación con los marcos redondos convencionales. La raqueta ISOMETRIC de forma cuadrada optimiza la intersección de las cuerdas principal y transversal, lo que resulta en un punto dulce más grande y un control mejorado sin sacrificar la potencia.",
+        "Precio": "$49000"
+    }
+
+}

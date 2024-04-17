@@ -1,8 +1,7 @@
 import React from 'react';
-import { Menu, ShoppingCart } from 'lucide-react'
+import { ShoppingCart } from 'lucide-react';
 
-export const CartWidget = () => {
-  const cartCount = 2;
+export const CartWidget = ({ cartCount }) => {
   return (
     <div className="flex flex-col items-center">
       <ShoppingCart />
@@ -10,4 +9,5 @@ export const CartWidget = () => {
     </div>
   );
 };
-export default CartWidget; 
+
+export default CartWidget;
