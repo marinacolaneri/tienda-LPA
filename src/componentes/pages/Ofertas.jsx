@@ -2,8 +2,8 @@ import React from 'react'
 
 function Ofertas() {
   return (
-    <div>Ofertas</div>
+    <div> En breve se actualizaran las ofertas</div>
   )
 }
 
-export default Ofertas
+export default Ofertasgit

@@ -19,7 +19,7 @@ export const RacketProvider = ({ children, setCartCount }) => {
     setLocalCartCount(cartCount - removedItem.quantity);
     setCartCount(cartCount - removedItem.quantity);
   };
-
+  
   const vaciarCarrito = () => {
     setCartItems([]);
     setLocalCartCount(0);

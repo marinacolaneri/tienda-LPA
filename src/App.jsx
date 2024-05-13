@@ -8,7 +8,7 @@
   import Carrito from './componentes/pages/Carrito';
   import RacketDetails from './componentes/RacketDetails';
   import { RacketProvider } from './componentes/RacketContext';
-  import Checkaout from './componentes/Checkaout';
+  import Checkout from './componentes/Checkout';
   
 
   function App() {
@@ -24,7 +24,7 @@
             <Route path="/ofertas" element={<Ofertas />} />
             <Route path="/contacto" element={<Contacto />} />         
             <Route path="/mi-carrito" element={<Carrito />} />
-            <Route path="/Checkout" element={<Checkaout />} />
+            <Route path="/Checkout" element={<Checkout />} />
           </Routes>
           <Footer greeting="Muchas Gracias por su compra" />
         </RacketProvider>

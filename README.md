@@ -20,3 +20,6 @@ Agregar al Carrito: El usuario puede agregar raquetas al carrito de compras y ve
 Proceso de Compra: El usuario puede completar el proceso de compra ingresando su información personal y finalizando la compra.
 
 Gestión del Carrito: El usuario puede ver y eliminar elementos del carrito, así como vaciar completamente el carrito si lo desean.
+
+
+Deploy :  tienda-32d2bkn0j-marinacolanerihotmailcoms-projects.vercel.app
