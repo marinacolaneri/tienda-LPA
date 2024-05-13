@@ -6,4 +6,4 @@ function Ofertas() {
   )
 }
 
-export default Ofertasgit
+export default Ofertas
